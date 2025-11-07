@@ -1,16 +1,93 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 What's Up?</h1>
+<h2 align="center">I'm Raj Parihar — a Passionate App Developer from Mumbai 🚀</h2>
 
-<!--
-**rajparihar281/rajparihar281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,react,ts,nextjs,tailwind,py,aws,nodejs,mongodb,express,go,rust,nestjs,graphql" height="100" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/raj-parihar-9901a52a6" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+  </a>
+  <a href="https://twitter.com/rajparihar25588" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+  </a>
+  <a href="https://instagram.com/stay_out_of_my_area_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+  </a>
+  <a href="https://dev.to/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" />
+  </a>
+</div>
+
+---
+
+### 🧠 About Me
+
+- 👨‍💻 All my projects are showcased at [**My Portfolio**](https://rajportfolio-red.vercel.app/)
+- 💬 Ask me about **App Development, Flutter, Dart, Firebase, UI/UX, and Automation Tools**
+- 📫 Reach me at **mrrajparihar281@gmail.com**
+- ⚡ Fun fact — I debug faster with **coffee ☕ and chill background music 🎧**
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,react,js,ts,html,css,tailwind,python,nodejs,express,mongodb,mysql,postgres,firebase,docker,git,postman" height="80" />
+</p>
+
+---
+
+### 🏆 Achievements & Stats
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rajparihar281&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1" height="180" alt="trophies" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajparihar281&show_icons=true&theme=radical&hide_border=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajparihar281&layout=compact&theme=radical&hide_border=true" height="200" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=rajparihar281&theme=dracula&hide_border=true&border_radius=6" height="200" alt="streak graph" />
+</div>
+
+---
+
+### 💛 Support My Work
+
+<p align="center">
+  <a href="https://buymeacoffee.com/ghost_face_devil" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="70" width="250" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
+---
+
+### 👾 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajparihar281&theme=react-dark&hide_border=true&area=true&height=400" width="100%" />
+</p>
+
+---
+
+### 🐍 Watch My Contributions Get Eaten!
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajparihar281/rajparihar281/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajparihar281/rajparihar281/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajparihar281/rajparihar281/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <i>"Building seamless digital experiences, one app at a time."</i> 🚀
+</p>
