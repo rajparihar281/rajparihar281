@@ -3,9 +3,9 @@
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase,react,ts,nextjs,tailwind,py,nodejs,mongodb,express" height="100" />
-</div>
+</div> -->
 
 ---
 
