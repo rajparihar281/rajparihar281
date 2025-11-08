@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,react,ts,nextjs,tailwind,py,nodejs,mongodb,express,nestjs" height="100" />
+  <img src="https://skillicons.dev/icons?i=android,flutter,dart,firebase,react,ts,nextjs,tailwind,py,nodejs,mongodb,express,nestjs" height="100" />
 </div>
 
 ---
@@ -38,7 +38,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java,kotlin,react,js,ts,html,css,tailwind,python,nodejs,express,mongodb,mysql,postgres,firebase,docker,git,postman" height="80" />
+  <img src="https://skillicons.dev/icons?i=android,flutter,dart,java,kotlin,react,js,ts,html,css,tailwind,python,nodejs,express,mongodb,mysql,postgres,firebase,docker,git,postman" height="80" />
 </p>
 
 ---
