@@ -7,7 +7,6 @@
   <img src="https://skillicons.dev/icons?i=androidstudio,flutter,dart,firebase,react,ts,nextjs,tailwind,py,nodejs,mongodb,express" height="100" />
 </div> -->
 
----
 
 <div align="center">
   <a href="https://www.linkedin.com/in/raj-parihar-9901a52a6" target="_blank">
