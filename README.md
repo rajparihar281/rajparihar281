@@ -27,7 +27,7 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 All my projects are showcased at [**My Portfolio**]("")
+- 👨‍💻 All my projects are showcased at [**My Portfolio**](https://rajportfolio-red.vercel.app/)
 - 💬 Ask me about **App Development, Flutter, Dart, Firebase, UI/UX, and Automation Tools**
 - 📫 Reach me at **mrrajparihar281@gmail.com**
 - ⚡ Fun fact — I debug faster with **coffee ☕ and chill background music 🎧**
