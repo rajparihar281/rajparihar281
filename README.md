@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
-<h2 align="center">I'm Raj Parihar — a Passionate App Developer from Mumbai 🚀</h2>
+# Hey 👋 What's Up?
+## I'm Raj Parihar — a Passionate App Developer from Mumbai 🚀
 
 ---
 
@@ -78,13 +78,9 @@
 
 ---
 
-### 🐍 Watch My Contributions Get Eaten!
+### 🎨 3D Contribution Calendar
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rajparihar281/rajparihar281/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rajparihar281/rajparihar281/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rajparihar281/rajparihar281/output/github-contribution-grid-snake.svg">
-</picture>
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
