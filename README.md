@@ -4,7 +4,7 @@
 ---
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,react,ts,nextjs,tailwind,py,aws,nodejs,mongodb,express,go,rust,nestjs,graphql" height="100" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,firebase,react,ts,nextjs,tailwind,py,nodejs,mongodb,express,nestjs" height="100" />
 </div>
 
 ---
