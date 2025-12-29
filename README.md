@@ -9,18 +9,17 @@
 
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/raj-parihar-9901a52a6" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  </a>
-  <a href="https://twitter.com/rajparihar25588" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  </a>
-  <a href="https://instagram.com/stay_out_of_my_area_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  </a>
-  <a href="https://dev.to/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" />
-  </a>
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rajparihar10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rajparihar10&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajparihar10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 </div>
 
 ---
