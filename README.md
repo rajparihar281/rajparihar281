@@ -45,16 +45,17 @@
 ### 🏆 Achievements & Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajparihar281&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1" height="180" alt="trophies" />
+  [![trophy](https://github-profile-trophy.vercel.app/?username=rajparihar10&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajparihar281&show_icons=true&theme=radical&hide_border=true" height="200" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajparihar281&layout=compact&theme=radical&hide_border=true" height="200" />
+  ![Raj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajparihar10&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rajparihar10&theme=radical)
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=rajparihar281&theme=dracula&hide_border=true&border_radius=6" height="200" alt="streak graph" />
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rajparihar10&layout=compact&theme=radical)
 </div>
 
 ---
