@@ -1,6 +1,6 @@
 # Hey 👋 What's Up?
 
-## I'm Raj Parihar — a Passionate App Developer from Mumbai 🚀
+## I'm Raj Parihar — a Passionate Flutter App Developer from Mumbai 🚀
 
 ---
 
