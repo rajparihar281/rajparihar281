@@ -18,7 +18,7 @@
   <a href="https://instagram.com/stay_out_of_my_area_" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Instagram" />
   </a>
-  <a href="https://dev.to/" target="_blank">
+  <a href="[https://dev.to/](https://dev.to/raj_parihar_b5dae28e8a634)" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="Dev.to" />
   </a>
 </div>
