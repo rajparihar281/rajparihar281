@@ -27,7 +27,7 @@
 
 ### 🧠 About Me
 
-- 👨‍💻 All my projects are showcased at [**My Portfolio**](https://rajportfolio-red.vercel.app/)
+<!-- - 👨‍💻 All my projects are showcased at [**My Portfolio**](https://rajportfolio-red.vercel.app/) -->
 - 💬 Ask me about **App Development, Flutter, Dart, Firebase, UI/UX, and Automation Tools**
 - 📫 Reach me at **mrrajparihar281@gmail.com**
 - ⚡ Fun fact — I debug faster with **coffee ☕ and chill background music 🎧**
@@ -44,14 +44,14 @@
 
 ### 🏆 Achievements & Stats
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=rajparihar281&theme=dracula&no-frame=true&no-bg=true&margin-w=15&row=1" height="180" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajparihar281&show_icons=true&theme=radical&hide_border=true" height="200" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rajparihar281&layout=compact&theme=radical&hide_border=true" height="200" alt="Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=rajparihar281&theme=dracula&hide_border=true&border_radius=6" height="200" alt="GitHub Streak" />
