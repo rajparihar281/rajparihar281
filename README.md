@@ -26,17 +26,4 @@ Flutter Developer based in Mumbai, focused on building clean, scalable mobile ap
 </p>
 
 
-
-
-
----
-
-### 📊 GitHub Activity
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=rajparihar281&theme=dracula&hide_border=true&border_radius=6" height="180" />
-</p>
-
----
-
 💡 I focus on building practical applications with clean architecture and real usability.
