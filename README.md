@@ -13,7 +13,7 @@ Flutter Developer based in Mumbai, focused on building clean, scalable mobile ap
 
 ### 🧠 About Me
 
-* 💬 I work with **Flutter, Dart, Firebase**, and modern app development tools
+* 💬 I work with **Flutter, Dart, Supabase**, and modern app development tools
 * 📫 Reach me at **[mrrajparihar281@gmail.com](mailto:mrrajparihar281@gmail.com)**
 * ⚡ I debug better with coffee and good background music
 
