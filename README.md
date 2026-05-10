@@ -23,7 +23,7 @@ Flutter Developer based in Mumbai, focused on building clean, scalable mobile ap
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,flutter,dart,java,nodejs,mysql,postgres,supabase,firebase,docker,git,github,vscode,postman" height="70" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,gradle,flutter,dart,java,nodejs,mysql,postgres,supabase,firebase,docker,git,github,vscode,postman,jenkins" height="70" />
 </p>
 
 
